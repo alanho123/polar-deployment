@@ -16,6 +16,7 @@ spec:
       containers:
         - name: polar-postgres
           image: postgres:latest
+          imagePullPolicy: Never
           env:
             - name: POSTGRES_USER
               value: user
