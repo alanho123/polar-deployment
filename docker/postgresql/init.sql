@@ -1,2 +1,2 @@
-CREATE DATABASE polar_catalog;
-CREATE DATABASE polar_order;
+CREATE DATABASE polardb_catalog;
+CREATE DATABASE polardb_order;
